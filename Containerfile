@@ -1,5 +1,4 @@
-FROM podman/base
-RUN apt-get update && apt-get install -y nodejs
+FROM node:18
 WORKDIR /usr/src/app
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
