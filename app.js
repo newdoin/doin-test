@@ -8,7 +8,7 @@ app.use(express.static('public'));
 
 // Set up a route to serve the HTML file
 app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/public/index.html');
+  res.sendFile(__dirname + '/public/index1.html');
 });
 
 // Start the server
