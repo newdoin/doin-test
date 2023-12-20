@@ -5,7 +5,7 @@ port = 3000
 
 app.get('/', function (req, res) {
     //res.send('<h1>Hello World from Node.js!</h1>')
-    res.sendFile(path.join(__dirname, "index.html"));
+    res.sendFile(path.join(__dirname, "index1.html"));
 
 })
 
