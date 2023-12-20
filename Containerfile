@@ -5,6 +5,7 @@ WORKDIR /usr/src/app
 # where available (npm@5+)
 COPY package*.json ./
 RUN npm install
+RUN npm install express
 # If you are building your code for production
 # RUN npm ci --omit=dev
 # Bundle app source
