@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: iad.ocir.io/natdcshjumpstartprod/samplejenkinsoke:latest
+        image: phx.ocir.io/natdcshjumpstartprod/samplejenkinsoke:latest
         #image: iad.ocir.io/natdcshjumpstartprod/signup:a4yetzb
         imagePullPolicy: Always
         ports:
