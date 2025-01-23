@@ -1,6 +1,6 @@
 [DEFAULT]
-user=ocid1.user.oc1..aaaaaaaa7yztrq4qr4ns4xmnr2wed4e55zxaldfsncferhf3pf3odehiv26a
-fingerprint=19:cb:f5:35:8f:72:58:5c:79:c6:99:d0:af:2e:2c:92
+user=ocid1.user.oc1..aaaaaaaawpypfbbh6pnyazrhp6lzu3ez7u2dvayqg3oz7h5dtnfjgofbg4wq
+fingerprint=3f:44:a6:78:a6:65:6a:bd:ed:25:09:98:98:7c:64:79
+tenancy=ocid1.tenancy.oc1..aaaaaaaav63rchmdbi4qx5paornrzcvqdbus5yfqwncwfpacvzi2tnalcidq
+region=ap-seoul-1
 key_file=/home/opc/.oci/oci_api_key.pem
-tenancy=ocid1.tenancy.oc1..aaaaaaaapox4qeg75qpeqjruuqxe7ybflk5utmt5cwwtdukuphkmise4h3hq
-region=us-ashburn-1
